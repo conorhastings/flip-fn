@@ -1,0 +1,29 @@
+{
+  "name": "flip-fn",
+  "version": "1.0.0",
+  "description": "flips first two arguments to a function and calls the rest of the arguments in order",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conorhastings/flip-fn.git"
+  },
+  "keywords": [
+    "flip",
+    "function",
+    "functional",
+    "helper",
+    "higher-order"
+  ],
+  "author": "Conor Hastings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conorhastings/flip-fn/issues"
+  },
+  "homepage": "https://github.com/conorhastings/flip-fn#readme",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
