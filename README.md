@@ -1,5 +1,7 @@
 # flip 
 
+[![Build Status](https://travis-ci.org/conorhastings/flip-fn.svg?branch=master)](https://travis-ci.org/conorhastings/flip-fn)
+
 Takes function as argument and returns a new function that will call original function with first two arguments flipped. Higher order functions like this can be seen in languages like `Elm` and `Haskell`
 
 ## use
